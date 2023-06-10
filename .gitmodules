@@ -1,0 +1,3 @@
+[submodule "submodules/luautf8"]
+	path = submodules/luautf8
+	url = https://github.com/starwing/luautf8
